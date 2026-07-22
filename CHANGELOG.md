@@ -19,6 +19,7 @@ All notable changes to this project will be documented in this file.
 
 ### Chores
 
+- **deps:** bump actions/setup-python from 6 to 7 ([e8fa8f3](https://github.com/somaz94/go-kubebuilder-test-action/commit/e8fa8f30c53eedff428ac0d0ac20b3496cc5daa0))
 - **deps:** bump actions/setup-go from 6 to 7 ([b03c6a9](https://github.com/somaz94/go-kubebuilder-test-action/commit/b03c6a999e9cfd828f5d375eab1a66251a6ca2ef))
 - **deps:** bump actions/checkout from 6 to 7 (#1) ([#1](https://github.com/somaz94/go-kubebuilder-test-action/pull/1)) ([2d87a89](https://github.com/somaz94/go-kubebuilder-test-action/commit/2d87a890e73941747f9be86e0b51f2b1e5255c8f))
 - drop unused docker dependabot ecosystem (composite action, no Dockerfile) ([4412a1e](https://github.com/somaz94/go-kubebuilder-test-action/commit/4412a1eb024ea46d543aabbad6406c55961dc1be))
